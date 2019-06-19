@@ -12,8 +12,7 @@ public class Main {
     arr[s.charAt(i)]++;
     
     if(arr[s.charAt(i)]>c){
-      
-      c=arr[i];
+      c=arr[s.charAt(i)];
       a=s.charAt(i);
     
     }
