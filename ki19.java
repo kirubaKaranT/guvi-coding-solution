@@ -9,6 +9,9 @@ public class Main {
      if(isprime(i)&&n%i==0)
      System.out.print(i+" ");
    }
+	  
+	  
+	  
     
   
   }
