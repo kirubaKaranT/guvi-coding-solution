@@ -14,6 +14,7 @@ public class Main {
         while(s.charAt(i)==' '){
           i++;
         }
+        i--;
         System.out.print(' ');
       }
     }
