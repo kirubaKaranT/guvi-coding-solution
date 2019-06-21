@@ -18,10 +18,10 @@ public class Main {
    }
 
   if(!odd){
-    System.out.print("yes");
+    System.out.print("even");
   }
   else{
-    System.out.print("no");
+    System.out.print("odd");
   }
   }
 }
